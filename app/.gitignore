@@ -1,1 +1,19 @@
-/build
+netek:epay-hwe andrej$ cat .gitignore 
+# Compiled source #
+target/
+build/
+bin/
+.metadata
+.settings/
+.apt_generated/
+.project
+.classpath
+.factorypath
+.idea/
+.codepro/
+*.iml
+/log/
+*.log
+pom.xml.versionsBackup
+netek:epay-hwe andrej$ cat HWE/.gitignore
+cat: HWE/.gitignore: No such file or directory
